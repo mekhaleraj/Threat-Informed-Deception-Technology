@@ -2,7 +2,7 @@
 
 This page includes the mapping of Deception Technology to the [MITRE ATT&CK](https://attack.mitre.org/) framework. The framework is a knowledge base of adversary tactics and techniques based on real-world observations.
 
-This section only includes references to queries that can be mapped in the MITRE ATT&CK Framework. 
+This section only includes references to deception technologies that can be mapped in the MITRE ATT&CK Framework. 
 
 # Statistics
 | Tactic | Entry Count |
